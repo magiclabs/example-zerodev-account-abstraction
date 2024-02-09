@@ -106,7 +106,6 @@ export const useZeroDevKernel = () => {
       setScaAddress(client.account.address);
     }
 
-    console.log("FETCHING")
     fetchAccount()
   }, [])
 
