@@ -9,9 +9,6 @@
     "lint": "next lint --fix"
   },
   "dependencies": {
-    "@alchemy/aa-accounts": "^2.4.0",
-    "@alchemy/aa-alchemy": "^2.4.0",
-    "@alchemy/aa-core": "^2.3.1",
     "@magic-ext/oauth": "^15.0.0",
     "@types/node": "20.3.3",
     "@types/react": "18.2.14",

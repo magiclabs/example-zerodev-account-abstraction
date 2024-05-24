@@ -17,7 +17,6 @@ import { useZeroDevKernel } from '@/components/zeroDev/useZeroDevKernel';
 const SendTransaction = () => {
   const { web3 } = useMagic();
   const { kernelClient } = useZeroDevKernel()
-  // const { provider } = useAlchemyProvider();
   const [toAddress, setToAddress] = useState('');
   const [amount, setAmount] = useState('');
   const [disabled, setDisabled] = useState(!toAddress || !amount);
