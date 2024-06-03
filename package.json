@@ -21,7 +21,7 @@
     "magic-sdk": "^21.5.0",
     "next": "13.4.7",
     "permissionless": "^0.0.35",
-    "postcss": "8.4.24",
+    "postcss": "8.4.31",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-toastify": "^9.1.3",
